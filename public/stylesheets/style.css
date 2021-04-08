@@ -1,0 +1,18 @@
+body {
+  padding: 56px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+main {
+  min-height: calc(100vh - 56px - 120px); }
+
+a {
+  color: #00B7FF; }
+
+a:hover {
+  color: #00B7FF;
+  text-decoration-line: none !important; }
+
+.pizza-title {
+  font-size: 1.2em; }
+
+/*# sourceMappingURL=style.css.map */

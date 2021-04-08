@@ -1,0 +1,52 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "title": "Scrush Toast",
+            "price": 1300,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/01.jpg",
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "title": "Scrush Chocko",
+            "price": 1500,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/01.jpg",
+            "rating": 4.7
+        },
+        {
+            "id": 3,
+            "title": "Scrush Chicken",
+            "price": 1600,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/01.jpg",
+            "rating": 4.3
+        },
+        {
+            "id": 4,
+            "title": "Scrush Beaf",
+            "price": 1300,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/02.jpg",
+            "rating": 4.1
+        },
+        {
+            "id": 5,
+            "title": "Scrush Vegetable",
+            "price": 1500,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/03.jpeg",
+            "rating": 4.7
+        },
+        {
+            "id": 6,
+            "title": "Scrush Sea",
+            "price": 1200,
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
+            "image": "/images/carousels -imgs/04.jpg",
+            "rating": 4.3
+        }
+    ]
+}
